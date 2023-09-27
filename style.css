@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+.navbar-brand img{
+    width: 140px;
+  
+}
+img{
+    width: 100%;
+}
+.banner-right{
+    position: relative;
+}
+.banner-img{
+    position: absolute;
+    right: 150px;
+    top: 170px;
+    width: 450px;
+}
+.banner-content h1{
+    font-size: 53px;
+}
+.banner-content p{
+    text-align: justify;
+}
+.banner-btn {
+    margin-bottom: 115px;
+}
+.about{
+    background-color: #F3F6F3;
+}
+.about .row{
+   
+}
+.about-right-content h1{
+    font-size: 42px;
+    
+}
+.about-right-content{
+    padding: 0px 65px;
+}
+.about-right-content p{
+    text-align: justify;
+}
+.about .about-subtile{
+    color: #3DCABA;
+    font-size: 22px;
+    font-weight: 700;
+    margin-top: -15px;
+}
+.about-btn{
+    background-color: #3DCABA;
+}
+.services-item .card .card-body img{
+    width: 140px !important;
+}
+.about p{
+    color: #3DCABA;
+     font-size: 22px; 
+     font-weight: 700;
+     padding-top: 50px;
+}
+.btn_color .btn{
+    color: #30C7B5;
+}
+.Verify-section{
+    width: 60%;
+    background: #30C7B5;
+}
+.Verify-section p{
+   padding: 5px 60px;
+}
+.footer_icon a{
+    font-size: 17px;
+    padding: 10px;
+    color: #3DCABA;
+    background: rgba(187, 184, 184, 0.586);
+}
+.footer_icon a:hover{
+    font-size: 17px;
+    padding: 10px;
+    color: #fff;
+    background: #30C7B5;
+}
+.footer_heading a{
+    color: #0c0c0c;
+}
